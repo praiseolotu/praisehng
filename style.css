@@ -96,7 +96,7 @@ img {
   margin-left: 2rem;
 }
 
-@media (max-width: 28.75em) {
+@media (max-width: 40.625em) {
   .nav {
     justify-content: center;
   }
@@ -149,9 +149,9 @@ img {
   border-bottom: 0.2rem solid var(--main-white);
 }
 
-@media (max-width: 28.75em) {
+@media (max-width: 40.625em) {
   .projects-section-header {
-    font-size: 4rem;
+    font-size: 3rem;
   }
 }
 
@@ -242,9 +242,9 @@ img {
   font-size: 6rem;
 }
 
-@media (max-width: 28.75em) {
+@media (max-width: 40.625em) {
   .contact-section-header > h2 {
-    font-size: 4rem;
+    font-size: 3rem;
   }
 }
 
